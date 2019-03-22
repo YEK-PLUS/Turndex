@@ -1,0 +1,14 @@
+<?php
+
+$sil1 = "Make a Choice Now";
+$sil2 = "Will you delete";
+$sil3 = "Delete";
+$sil4 = "You will pass";
+$sil5 = "Cancel";
+$bekle1 = "Deletion completed"; 
+$bekle2 = "Managed Forwarding"; 
+$bekle3 = "If Your Scanner Does Not Support Routing";
+$bekle4 = "Click";
+$bekle5 = "Please wait";
+$bekle6 = "Second";
+?>

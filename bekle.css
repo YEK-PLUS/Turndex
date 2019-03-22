@@ -1,0 +1,184 @@
+:not(input):not(textarea) {
+   -moz-user-select: -moz-none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+   -o-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+}
+html { 
+	  background-color:#7C9EE1;
+		}
+body {
+	margin:0;
+	padding:0;
+}
+/*silme işlemi tamamlandı*/
+.div2 {
+   background-color:#7C9EE1;
+   position:absolute;
+   height:114px;
+   width:304px;
+   margin-top:1px;
+   margin-left:1px;
+   text-align:center;
+}
+.div1 {
+   background-color:black;
+   position:absolute;
+   top:50%;
+   left:50%;
+   height:116px;
+   width:306px;
+   margin-top:-300px;
+   margin-left:-153px;
+   text-align:center;
+}
+.div3{
+   background:black;
+   height:112px;
+   width:302px;
+   text-align:center;
+   margin-top:1px;
+   margin-left:1px;
+}
+.div4 {
+   background:#7C9EE1;
+   position:absolute;
+   color:black;
+   height:110px;
+   width:300px;
+   text-align:center;
+   margin-top:1px;
+   margin-left:1px;
+}
+/*yonlendiriliyor*/
+.div5 {
+   background:black;
+   position:absolute;
+   color:black;
+   height:66px;
+   width:306px;
+   top: 50%;
+   left: 50%;
+   text-align:center;
+   margin-top:50px;
+   margin-left:-353px;
+}
+.div6 {
+   background:#7C9EE1;
+   position:absolute;
+   color:black;
+   height:64px;
+   width:304px;
+   text-align:center;
+   margin-top:1px;
+   margin-left:1px;
+}
+.div7 {
+   background:black;
+   position:absolute;
+   color:black;
+   height:62px;
+   width:302px;
+   text-align:center;
+   margin-top:1px;
+   margin-left:1px;
+}
+.div8 {
+   background:#7C9EE1;
+   position:absolute;
+   color:black;
+   height:60px;
+   width:300px;
+   text-align:center;
+   margin-top:1px;
+   margin-left:1px;
+}
+/*uyarı*/
+.div9 {
+   background:black;
+   position:absolute;
+   color:black;
+   height:66px;
+   width:306px;
+   top: 50%;
+   left: 50%;
+   text-align:center;
+   margin-top:50px;
+   margin-left:53px;
+}
+.div10 {
+   background:#7C9EE1;
+   position:absolute;
+   color:black;
+   height:64px;
+   width:304px;
+   text-align:center;
+   margin-top:1px;
+   margin-left:1px;
+}
+.div11 {
+   background:black;
+   position:absolute;
+   color:black;
+   height:62px;
+   width:302px;
+   text-align:center;
+   margin-top:1px;
+   margin-left:1px;
+}
+.div12 {
+   background:#7C9EE1;
+   position:absolute;
+   color:black;
+   height:60px;
+   width:300px;
+   text-align:center;
+   margin-top:1px;
+   margin-left:1px;
+}
+
+/*tıkla*/
+.div13 {
+   background:black;
+   position:absolute;
+   color:black;
+   height:66px;
+   width:306px;
+   top: 50%;
+   left: 50%;
+   text-align:center;
+   margin-top:150px;
+   margin-left:-153px;
+}
+.div14 {
+   background:#7C9EE1;
+   position:absolute;
+   color:black;
+   height:64px;
+   width:304px;
+   text-align:center;
+   margin-top:1px;
+   margin-left:1px;
+}
+.div15 {
+   background:black;
+   position:absolute;
+   color:black;
+   height:62px;
+   width:302px;
+   text-align:center;
+   margin-top:1px;
+   margin-left:1px;
+}
+.div16 {
+   background:#7C9EE1;
+   position:absolute;
+   color:black;
+   height:60px;
+   width:300px;
+   text-align:center;
+   margin-top:1px;
+   margin-left:1px;
+}

@@ -1,0 +1,14 @@
+<?php
+
+$sil1 = "Şimdi bir seçim yapmalısın";
+$sil2 = "Silicekmisin Gerçekten?";
+$sil3 = "Sil";
+$sil4 = "Kararından Gerimi Döneceksin?";
+$sil5 = "Silme";
+$bekle1 = "Silme İşlemi Tamamlandı";
+$bekle2 = "Yöneticiye Yönlendiriliyorsunuz";
+$bekle3 = "Tarayıcınız Yönlendirmeyi Desteklemiyorsa";
+$bekle4 = "Tıkla";
+$bekle5 = "Lütfen Bekleyin";
+$bekle6 = "Saniye";
+?>
